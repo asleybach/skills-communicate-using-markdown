@@ -23,3 +23,9 @@ insertando código de un lenguaje especicfico, en este caso **Python**
 ```Python
 print("olá Mundo!!")
 ```
+
+colocando lista de tareas
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
