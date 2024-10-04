@@ -10,3 +10,16 @@ se confirma la creación del un **encabezado** y de una etiqueta __H2__
 
 
 *creado por asleybach@gmail.com*
+
+insertando código en el archivo
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+insertando código de un lenguaje especicfico, en este caso **Python**
+
+```Python
+print("olá Mundo!!")
+```
